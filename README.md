@@ -1,2 +1,3 @@
 # PROJETO_MENINOS
 PROJETO SOCIAL PARA INSTITUIÇÃO DE CARIDADE "MENINOS APREDEM"
+Fiz um jogo (jokenpoo) utilizando a linguagem JAVA 
